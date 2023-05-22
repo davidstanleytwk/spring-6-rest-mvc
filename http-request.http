@@ -1,0 +1,8 @@
+###
+
+GET http://localhost:8080/api/v1/customer/76b82207-865e-4cb6-9dbb-cc1cf0010054
+
+<> 2023-05-19T170435.200.json
+<> 2023-05-19T170105.200.json
+
+###
